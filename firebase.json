@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"recipe-app-jupi","appId":"1:307666346010:android:85a1168c4eb7789170f1a3","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"recipe-app-jupi","configurations":{"android":"1:307666346010:android:85a1168c4eb7789170f1a3","ios":"1:307666346010:ios:daac6622aa1756dd70f1a3"}}}}}}

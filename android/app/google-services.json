@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307666346010",
+    "project_id": "recipe-app-jupi",
+    "storage_bucket": "recipe-app-jupi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307666346010:android:85a1168c4eb7789170f1a3",
+        "android_client_info": {
+          "package_name": "com.example.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-0KHOgXkACFWPduADoe0WSniC1Nehlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
